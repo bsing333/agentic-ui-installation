@@ -20,7 +20,7 @@ export default {
 		},
 		extend: {
 			fontFamily: {
-				camera: ["'Camera'", "sans-serif"],
+				camera: ["'ABC Camera'", "sans-serif"],
 				sans: ["Inter", "sans-serif"]
 			},
 			colors: {
